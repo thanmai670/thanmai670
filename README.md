@@ -1,9 +1,9 @@
 Hola, I'm Thanmai! 👋.
-I am currently pursuing my Engineering in Computer Science at Jyothy Institute of Technology, Bangalore.
+I am currently pursuing my Master's In Applied Computer Science at SRH Hochschule Heidelberg
 
-🔭 I’m currently working on Python for Data Science.
+🔭 I'm currently working on Web Development and Mobile application Development.
 
-👯 I’m available to collaborate on any project with JS.
+👯 I’m available to collaborate on any project with Reactj, Fultter and Javascript.
 
 💬 Ask me about Flutter or any web and mobile app development related stuff
 .
