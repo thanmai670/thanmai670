@@ -3,7 +3,7 @@ I am currently pursuing my Master's In Applied Computer Science at SRH Hochschul
 
 🔭 I'm currently working on Web Development and Mobile application Development.
 
-👯 I’m available to collaborate on any project with Reactj, Fultter and Javascript.
+👯 I’m available to collaborate on any project with Reactjs, Fultter, Javascript and TypeScript.
 
 💬 Ask me about Flutter or any web and mobile app development related stuff
 .
