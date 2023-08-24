@@ -1,11 +1,11 @@
 Hola, I'm Thanmai! 👋.
 I am currently pursuing my Master's In Applied Computer Science at SRH Hochschule Heidelberg
 
-🔭 I'm currently working on Web Development and Mobile application Development.
+🔭 I'm currently working as a Full Stack Developer at Aqarios GmbH.
 
-👯 I’m available to collaborate on any project with Reactjs, Fultter, Javascript and TypeScript.
+👯 I’m available to collaborate on any project with Python, FastAPI, Vuejs, Reactjs, Fultter, Javascript and TypeScript.
 
-💬 Ask me about Flutter or any web and mobile app development related stuff
+💬 Ask me about Python or any web and mobile app development related stuff
 .
 📫 How to reach me: LinkedIn - @Thanmai, Instagram - @tech_station09.
 
