@@ -1,5 +1,5 @@
 Hola, I'm Thanmai! 👋.
-I am currently pursuing my Master's In Applied Computer Science at SRH Hochschule Heidelberg
+I am currently working as SWE @ Aqarios GmbH
 
 🔭 I'm currently working as a Full Stack Developer at Aqarios GmbH.
 
@@ -7,7 +7,7 @@ I am currently pursuing my Master's In Applied Computer Science at SRH Hochschul
 
 💬 Ask me about Python or any web and mobile app development related stuff
 .
-📫 How to reach me: LinkedIn - @Thanmai, Instagram - @tech_station09.
+📫 How to reach me: LinkedIn - @Thanmai 
 
 😄 Pronouns: He/His.
 
