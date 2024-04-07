@@ -1,9 +1,6 @@
-Hola, I'm Thanmai! 👋.
-I am currently working as SWE @ Aqarios GmbH
+Hey there! I'm Thanmai! 👋 I'm a seasoned software engineer with a passion for innovation and problem-solving. Previously, I contributed to groundbreaking projects at Aqarios GmbH, specializing in quantum compute solutions. 
 
-🔭 I'm currently working as a Full Stack Developer at Aqarios GmbH.
-
-👯 I’m available to collaborate on any project with Python, FastAPI, Vuejs, Reactjs, Fultter, Javascript and TypeScript.
+👯 With a Master's in Applied Computer Science from SRH Hochschule Heidelberg, I bring expertise in Python, FastAPI, Nodejs, Reactjs, and more. 
 
 💬 Ask me about Python or any web and mobile app development related stuff
 .
