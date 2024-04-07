@@ -1,4 +1,4 @@
-Hey there! I'm Thanmai! 👋 I'm a seasoned software engineer with a passion for innovation and problem-solving. Previously, I contributed to groundbreaking projects at Aqarios GmbH, specializing in quantum compute solutions. 
+Hey there! I'm Thanmai! 👋 I'm a seasoned software engineer with a passion for innovation and problem-solving. Previously, I contributed to groundbreaking projects at Aqarios GmbH, specializing in Fullstack development. 
 
 👯 With a Master's in Applied Computer Science from SRH Hochschule Heidelberg, I bring expertise in Python, FastAPI, Nodejs, Reactjs, and more. 
 
