@@ -16,7 +16,7 @@
 
 ```yaml
 name: Thanmai BK
-location: Heidelberg, Germany
+location: Altshausen, Germany
 role: Software Developer @ Stadler Anlagenbau GmbH
 education: M.Sc. Applied Computer Science — SRH Hochschule Heidelberg
 interests: [robots, 3D printing, hardware hacking, martial arts]
