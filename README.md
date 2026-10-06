@@ -96,6 +96,6 @@ I'm a fullstack engineer by day and a hardware tinkerer by night. I build web ap
 
 *"The best way to learn is to build something, break it, and build it again."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=thanmai670&color=f59e0b&style=flat-square&label=visitors)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthanmai670&count_bg=%23f59e0b&title_bg=%23555555&title=visitors&edge_flat=true)
 
 </div>
