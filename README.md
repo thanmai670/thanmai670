@@ -73,8 +73,8 @@ I'm a fullstack engineer by day and a hardware tinkerer by night. I build web ap
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thanmai670&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanmai670&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9&langs_count=8&hide=html,css,scss,jupyter%20notebook" height="170" />
+<img src="https://ghstats.match-verse.com/api?username=thanmai670&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170" />
+<img src="https://ghstats.match-verse.com/api/top-langs/?username=thanmai670&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9&langs_count=8&hide=html,css,scss,jupyter%20notebook" height="170" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=thanmai670&theme=tokyonight&hide_border=true&background=0d1117&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b" />
 
